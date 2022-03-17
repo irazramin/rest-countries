@@ -17,6 +17,12 @@ img {
     margin-top: 30px;
 }
 
+p {
+    display: flex;
+    justify-content: space-between;
+}
+
 b {
-    color: red;
+    color: coral;
+    text-align: end;
 }
